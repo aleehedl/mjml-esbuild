@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "build": "node build.cjs"
+  },
+  "dependencies": {
+    "mjml": "^4.13.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.16.11",
+    "typescript": "^4.9.4"
+  }
+}
